@@ -35,9 +35,10 @@ The Swalk Stick has 3 main functions:
 <h4 align="center"> <img src="https://github.com/xian-cong/Swalk-Stick/blob/main/Photos/image.MJVEG1.png" width="500"> </br>
 
 ### Design
-The first generation Swalk Stick was mainly used as a POC rather than making it looked like a real product. During second generation, our team grew bigger and Owen Loh designed the second generation Swalk Stick using AutoCAD which can be found [here](https://github.com/xian-cong/Swalk-Stick/blob/main/Walking-Stick-full-3D.dwg). The 3D design is shown below.
+The first generation Swalk Stick was mainly used as a POC rather than making it looked like a real product. During second generation, our team grew bigger and Owen Loh designed the second generation Swalk Stick using AutoCAD which can be found [here](https://github.com/xian-cong/Swalk-Stick/blob/main/Walking-Stick-full-3D.dwg) and printed out. The 3D design is shown below.
     <h4 align="center"> 
   </br><img src="https://github.com/xian-cong/Swalk-Stick/blob/main/Photos/Walking%20Stick.png" width="100">
+  <img src="https://github.com/xian-cong/Swalk-Stick/blob/main/Photos/DSC05832.JPG" width="250">  
 
 
 ### Prototype Generations
