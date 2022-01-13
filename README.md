@@ -11,13 +11,13 @@
   8. Presented to the ambassador of Hungary to Malaysia, Petra Ponevacs-Pana
 
 ### Contents
-  1. Introduction
-  2. Contents
-  3. Objectives
-  4. Functions
-  5. Hardware Connection
-  6. Design
-  7. Prototype Generations
+  1. [Introduction](https://github.com/xian-cong/Swalk-Stick#introduction)
+  2. [Contents](https://github.com/xian-cong/Swalk-Stick#contents)
+  3. [Objectives](https://github.com/xian-cong/Swalk-Stick#objectives)
+  4. [Functions](https://github.com/xian-cong/Swalk-Stick#functions)
+  5. [Hardware Connection](https://github.com/xian-cong/Swalk-Stick#hardware-connection)
+  6. [Design](https://github.com/xian-cong/Swalk-Stick#design)
+  7. [Prototype Generations](https://github.com/xian-cong/Swalk-Stick#prototype-generations)
 
 ### Objectives
   1. Personal Emergency Assistant
