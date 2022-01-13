@@ -16,10 +16,11 @@
   3. [Objectives](https://github.com/xian-cong/Swalk-Stick#objectives)
   4. [Functions](https://github.com/xian-cong/Swalk-Stick#functions)
   5. [Hardware Connection](https://github.com/xian-cong/Swalk-Stick#hardware-connection)
-  6. [Software]
+  6. [Software](https://github.com/xian-cong/Swalk-Stick#software)
   7. [Design](https://github.com/xian-cong/Swalk-Stick#design)
   8. [Prototype Generations](https://github.com/xian-cong/Swalk-Stick#prototype-generations)
-  9. [Future Improvements]
+  9. [Future Improvements](https://github.com/xian-cong/Swalk-Stick#future-improvements)
+  10. [Additional Information](https://github.com/xian-cong/Swalk-Stick#additional-information)
 
 ### Objectives
   1. Personal Emergency Assistant
